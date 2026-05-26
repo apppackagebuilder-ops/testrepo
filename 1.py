@@ -1,1 +1,1 @@
-print("inital code with a smal change")
+print("inital with a smal change")
